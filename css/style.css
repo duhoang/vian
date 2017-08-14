@@ -37,6 +37,7 @@ a {
   top: 5%;
   transform: translate(-50%, 0);
   width: 60%;
+  animation: showTalkBubble .5s 10s;
   animation-fill-mode: both; }
   .talk-bubble-wrapper .pink {
     color: #ec95d8; }
